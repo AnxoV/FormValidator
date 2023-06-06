@@ -1,4 +1,5 @@
 [![License](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)](https://github.com/AnxoV/FormValidator/blob/master/LICENSE)
+![Dependencies](https://badgen.net/badge/dependecies/none/green)
 ![Last commit](https://custom-icon-badges.demolab.com/github/last-commit/AnxoV/FormValidator?logo=history&logoColor=white)
 ![Version](https://img.shields.io/github/v/release/AnxoV/FormValidator)
 ![Code size](https://custom-icon-badges.demolab.com/github/languages/code-size/AnxoV/FormValidator?logo=file-code&logoColor=white)
