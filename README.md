@@ -1,4 +1,4 @@
-[![License](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)]()
+[![License](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)](https://github.com/AnxoV/FormValidator/blob/master/LICENSE)
 
 # FormValidator
 A simple Form Validator, written in pure JS
