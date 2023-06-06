@@ -1,3 +1,5 @@
+[![License](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)]()
+
 # FormValidator
 A simple Form Validator, written in pure JS
 
