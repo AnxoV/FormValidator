@@ -22,7 +22,7 @@ jobs:
       - name: Readme Download Button Action
         env:
           GITHUB_USER: "AnxoV"
-          REPO: "ValidatorForm"
+          REPO: "FormValidator"
           FORMAT: "zip"
           VERSION: "${{ steps.get-latest-release.outputs.tag_name }}"
           COLOR: "blue"
