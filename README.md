@@ -1,6 +1,6 @@
 [![License](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)](https://github.com/AnxoV/FormValidator/blob/master/LICENSE)
 ![Last commit](https://custom-icon-badges.demolab.com/github/last-commit/AnxoV/FormValidator?logo=history&logoColor=white)
-
+![Code size](https://custom-icon-badges.demolab.com/github/languages/code-size/AnxoV/FormValidator?logo=file-code&logoColor=white)
 # FormValidator
 A simple Form Validator, written in pure JS
 
