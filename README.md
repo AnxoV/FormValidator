@@ -2,7 +2,7 @@
 A simple Form Validator, written in pure JS
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/AnxoV/ValidatorForm/archive/v1.0.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/AnxoV/FormValidator/archive/v1.0.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 ## Example
